@@ -1,1 +1,2 @@
-# Verifica-Scozzoli-Sofia
+# Verifica-Scozzoli-Sofii
+esercizio 2
